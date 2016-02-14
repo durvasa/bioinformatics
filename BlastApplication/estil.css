@@ -1,0 +1,5 @@
+body {font-family: Verdana, Arial, sans-serif; font-size: 15px}
+th {font-family: Verdana, Arial, sans-serif; background-color: #cccccc; color:#ffffff; font-size: 12px}
+.button {padding:2px; display: inline; color:#ffffff;background-color: #aaaaaa}
+.button a {color:#ffffff; text-decoration:none}
+.button a:hover {font-weight:bold}
